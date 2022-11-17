@@ -5,7 +5,7 @@ E tenho um foco na area de programação, em particular em games :facepunch::spa
 
 :microscope: Cursado 3 anos em Engenharia Química em Faculdades Oswaldo Cruz (FOC) :chart_with_upwards_trend:
 
-:computer: Estudando Ciência da Computação em Faculdade Impacta de Tecnologia (FIT) :computer:
+:computer: Estudando Ciência da Computação em Faculdade Impacta :computer:
 
 :bookmark_tabs: Tenho breve conhecimentos em tecnologia, como Python e SQL Server, maior facilidade na area de exatas e buscando maiores conhecimentos na area de programação! :bookmark_tabs:
 
