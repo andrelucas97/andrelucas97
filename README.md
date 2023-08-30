@@ -1,5 +1,5 @@
 :wave:  Olá, me chamo André Lucas Fabbris de Toledo, nascido na capital de São Paulo.
-E tenho um foco na area de programação, em particular em games :facepunch::space_invader:
+E tenho um foco na area de programação, em particular em games ou na área de Banco de Dados! :facepunch::space_invader:
 
 :city_sunset: Atualmente morando na Zona Norte da capital de São Paulo :city_sunset:
 
