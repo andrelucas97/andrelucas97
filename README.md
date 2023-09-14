@@ -7,7 +7,7 @@ E tenho um foco na area de programação, em particular em games ou na área de 
 
 :computer: Estudando Ciência da Computação em Faculdade Impacta :computer:
 
-:bookmark_tabs: Possuo conhecimentos em programação, como Python, C# e SQL Server,além de uma maior facilidade na área de exatas e buscando maiores conhecimentos na area de programação, como em games ou na área de banco de dados! :bookmark_tabs:
+:bookmark_tabs: Possuo conhecimentos em programação, como Python, C#, Java e JavaScript, além de banco de dadosSQL Server e PostGreeSQL e análise de dados Power BI. Possuo maior facilidade na área de exatas e buscando maiores conhecimentos na area de programação, como em games ou na área de banco de dados! :bookmark_tabs:
 
 
 <div align="center">
