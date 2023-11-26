@@ -3,11 +3,11 @@ E tenho um foco na area de programação, em particular em games ou na área de 
 
 :city_sunset: Atualmente morando na Zona Norte da capital de São Paulo :city_sunset:
 
+:computer: Graduado em Ciência da Computação em Faculdade Impacta :computer:
+
 :microscope: Cursado 3 anos em Engenharia Química em Faculdades Oswaldo Cruz (FOC) :chart_with_upwards_trend:
 
-:computer: Estudando Ciência da Computação em Faculdade Impacta :computer:
-
-:bookmark_tabs: Possuo conhecimentos em programação, como Python, C#, Java e JavaScript, além de banco de dadosSQL Server e PostGreeSQL e análise de dados Power BI. Possuo maior facilidade na área de exatas e buscando maiores conhecimentos na area de programação, como em games ou na área de banco de dados! :bookmark_tabs:
+:bookmark_tabs: Possuo conhecimentos em programação, como Python, C#, JavaScript e Java, além de banco de dados SQL Server e PostGreeSQL e análise de dados Power BI. Possuo maior facilidade na área de exatas e buscando ingressar na area de programação em jogos! :bookmark_tabs:
 
 
 <div align="center">
