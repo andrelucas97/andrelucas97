@@ -9,6 +9,7 @@ E tenho um foco na area de programação, em particular em games ou na área de 
 
 :bookmark_tabs: Possuo conhecimentos em programação, como Python, C#, JavaScript e Java, além de banco de dados SQL Server e PostGreeSQL e análise de dados Power BI. Possuo maior facilidade na área de exatas e buscando ingressar na area de programação em jogos! :bookmark_tabs:
 
+Link para alguns vídeos de meus projetos: https://drive.google.com/drive/folders/1EBji0XcE6uBiSFcxhZmXHL0EXNd_w2g2?usp=drive_link
 
 <div align="center">
   <a href="https://github.com/andrelucas97">
