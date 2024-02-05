@@ -1,4 +1,4 @@
-:wave:  Olá, me chamo André Lucas Fabbris de Toledo, sou de São Paulo Capital!
+:wave:  Olá, me chamo André Lucas, sou de São Paulo Capital!
 Hoje atuo como Analista de Desenvolvimento de Sistemas, utilizando linguagem C# e busco ingressar na área de programação em jogos, onde sempre foi meu objetivo principal! :facepunch::space_invader:
 
 :computer: Graduado em Ciência da Computação na Faculdade Impacta :computer:
