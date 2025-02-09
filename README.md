@@ -13,6 +13,8 @@ Hoje atuo como Analista de Desenvolvimento de Sistemas, utilizando linguagem C# 
 
 Link para alguns vídeos de meus projetos: https://drive.google.com/drive/folders/1EBji0XcE6uBiSFcxhZmXHL0EXNd_w2g2?usp=drive_link
 
+Meu portfólio: https://andrelucas97.github.io/Portfolio/
+
 <div align="center">
   <a href="https://github.com/andrelucas97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelucas97&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
