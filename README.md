@@ -1,5 +1,5 @@
 :wave:  Olá, me chamo André Lucas, sou de São Paulo Capital!
-Hoje atuo como Analista de Desenvolvimento de Sistemas, utilizando linguagem C# e busco ingressar na área de programação em jogos, onde sempre foi meu objetivo principal! :facepunch::space_invader:
+Atualmente desenvolvendo um jogo 2D estilo pixel art no Unity (personagem, IA, colisões, animações básicas) e busco ingressar na área de programação em jogos, onde sempre foi meu objetivo principal! :facepunch::space_invader:
 
 :computer: Graduado em Ciência da Computação na Faculdade Impacta :computer:
 
@@ -7,10 +7,10 @@ Hoje atuo como Analista de Desenvolvimento de Sistemas, utilizando linguagem C# 
 
 :bookmark_tabs: Possuo conhecimentos em programação, como Python, C#, JavaScript e Java, além de banco de dados SQL Server e PostGreeSQL e análise de dados Power BI. Possuo maior facilidade na área de exatas e buscando ingressar na area de programação em jogos! :bookmark_tabs:
 
-:video_game: Desenvolvi alguns simples projetos de jogos de terror, utilizando a engine Unity3D, em C#. :video_game:
+:video_game: Desenvolvi alguns simples projetos de jogos de terror, utilizando a engine Unity3D, em C# e hoje desenvolvendo um projeto em pixelart na Unity2D. :video_game:
   - REM: O objetivo do jogo é sobreviver uma noite em uma paralisia do sono, onde eventos sobrenaturais acontece ao decorrer do tempo. Para sobreviver a noite, é preciso controlar sua sanidade, como piscar os olhos.
   - Curse Hunter: O objetivo é o personagem escapar da casa assombrada, coletando itens como chaves, pilhas para lanterna e crucifixo para proteção, onde há uma criatura o perseguindo.
-
+  - Game Arya: Uma arqueira em seu mundo 2D em Pixel Art com o objetivo de recolher sementes (Syen) pelo mundo cheio de inimigos.
 Link para alguns vídeos de meus projetos: https://drive.google.com/drive/folders/1EBji0XcE6uBiSFcxhZmXHL0EXNd_w2g2?usp=drive_link
 
 Meu portfólio: https://andrelucas97.github.io/Portfolio/
